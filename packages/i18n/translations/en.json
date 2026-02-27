@@ -1,0 +1,59 @@
+{
+  "login": {
+    "title": "Sign in",
+    "emailPlaceholder": "Email",
+    "passwordPlaceholder": "Password",
+    "signIn": "Sign In",
+    "signingIn": "Signing in...",
+    "invalidCredentials": "Invalid credentials",
+    "required": "Required",
+    "invalidEmail": "Enter a valid email"
+  },
+  "home": {
+    "welcome": "Welcome",
+    "logout": "Logout",
+    "notStarted": "Not started",
+    "inProgress": "In progress",
+    "submitted": "Submitted"
+  }
+  ,
+  "onboarding": {
+    "profile": {
+      "title": "Profile",
+      "fullName": "Full name",
+      "dateOfBirth": "Date of birth",
+      "nationality": "Nationality",
+      "next": "Next"
+    },
+    "document": {
+      "title": "Document",
+      "documentType": "Document Type",
+      "documentNumber": "Document Number",
+      "next": "Next",
+      "back": "Back"
+    },
+    "selfie": {
+      "title": "Selfie",
+      "capture": "Capture Placeholder",
+      "next": "Next",
+      "back": "Back"
+    },
+    "address": {
+      "title": "Address",
+      "addressLine1": "Address Line 1",
+      "city": "City",
+      "country": "Country",
+      "next": "Next",
+      "back": "Back"
+    },
+    "review": {
+      "title": "Review",
+      "submit": "Submit",
+      "back": "Back"
+    }
+  },
+  "settings": {
+    "theme": "Theme"
+  },
+  "start": "Start Onboarding"
+}

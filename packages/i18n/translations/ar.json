@@ -1,0 +1,59 @@
+{
+  "login": {
+    "title": "تسجيل الدخول",
+    "emailPlaceholder": "البريد الإلكتروني",
+    "passwordPlaceholder": "كلمة المرور",
+    "signIn": "تسجيل الدخول",
+    "signingIn": "جارٍ تسجيل الدخول...",
+    "invalidCredentials": "بيانات اعتماد غير صحيحة",
+    "required": "مطلوب",
+    "invalidEmail": "أدخل بريدًا إلكترونيًا صالحًا"
+  },
+  "home": {
+    "welcome": "مرحبا",
+    "logout": "تسجيل الخروج",
+    "notStarted": "لم يبدأ",
+    "inProgress": "قيد التنفيذ",
+    "submitted": "تم الإرسال"
+  }
+  ,
+  "onboarding": {
+    "profile": {
+      "title": "الملف الشخصي",
+      "fullName": "الاسم الكامل",
+      "dateOfBirth": "تاريخ الميلاد",
+      "nationality": "الجنسية",
+      "next": "التالي"
+    },
+    "document": {
+      "title": "المستند",
+      "documentType": "نوع المستند",
+      "documentNumber": "رقم المستند",
+      "next": "التالي",
+      "back": "السابق"
+    },
+    "selfie": {
+      "title": "صورة سيلفي",
+      "capture": "التقاط (وهمي)",
+      "next": "التالي",
+      "back": "السابق"
+    },
+    "address": {
+      "title": "العنوان",
+      "addressLine1": "العنوان 1",
+      "city": "المدينة",
+      "country": "الدولة",
+      "next": "التالي",
+      "back": "السابق"
+    },
+    "review": {
+      "title": "المراجعة",
+      "submit": "إرسال",
+      "back": "السابق"
+    }
+  },
+  "settings": {
+    "theme": "السمة"
+  },
+  "start": "ابدأ التحقق"
+}
