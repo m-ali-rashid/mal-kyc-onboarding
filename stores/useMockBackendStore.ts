@@ -30,7 +30,7 @@ function simulateDelay(ms = 500) {
 
 export const useMockBackendStore = createAny<any>((set: any, get: any) => ({
   users: [
-    { id: 'USR-001', email: 'jane.doe@example.com', fullName: 'Jane Doe' }
+    { id: 'USR-001', email: 'a', fullName: 'Jane Doe' }
   ] as User[],
   sessions: {} as Record<string, Session>,
 
@@ -38,7 +38,7 @@ export const useMockBackendStore = createAny<any>((set: any, get: any) => ({
     await simulateDelay(700)
     const users: User[] = get().users
     const user = users.find((u: User) => u.email === email)
-    if (!user || password !== 'password') {
+    if (!user || password !== 'a') {
       const err: ApiError = { status: 401, message: 'Invalid credentials' }
       throw err
     }
